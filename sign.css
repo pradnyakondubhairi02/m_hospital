@@ -1,0 +1,108 @@
+<style>
+*{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 18px;
+    background-size: cover;
+    }
+
+body{
+    background-attachment: fixed;
+}
+.header{
+    text-align: center;
+    margin-top: -2%;
+}
+.header h1{
+    font-weight: bolder;
+    font-size: 50px;
+    
+}
+.header a{
+    margin-top: -1%;
+    color: rgb(255, 166, 0);
+}
+.form{
+    text-align: center;
+    background: white;
+    margin: 100px;
+    margin-right: 600px;
+}
+input{
+    border-radius: 7px;
+    width: 400px;
+    background-color: white;
+    font-weight: bolder;
+}
+.mid{
+    display: block;
+    margin: 18px auto;
+    width: 45%;
+}
+.nav{
+    display:inline-block;
+   margin-left: 30%;
+}
+.nav li{
+    font-weight: bolder;
+    display: inline-block;
+    margin: 5px;
+    /* font-size: 500px; */
+}
+.nav li a{
+    text-decoration: none;
+}
+.right {
+position: absolute;
+right: 34px;
+top: 18px;
+display: inline-block;      
+}
+
+.line {
+ border-left: 2px solid rgb(255, 166, 0);
+  height: 300px;
+  margin-left: 85%;
+  margin-top: -40%;
+ 
+}
+.form .logo{
+  height: 350px;
+  margin-left: 700px;
+  margin-top: -33%;
+}
+.form .logo img{
+width: 70px;
+height: 70px;
+margin-top: -50%;
+}
+.form .logo h3{
+margin-top: -60px;
+width: 400px;
+margin-left: -40px;
+}
+.form p{
+margin-top: -40px;
+margin-left: 400px;
+width: 500px;
+}
+.form .btn{
+margin-left: -250px;
+}
+.btn {
+font-family: 'Baloo Bhai 2', cursive;
+margin: 4px 9px;
+background-color:rgb(255, 166, 0);
+color: white;
+padding: 4px 14px;
+border:rgb(255, 166, 0) ;
+border-radius: 20px;
+font-size: 20px;
+
+}
+
+
+
+.btn:hover {
+background-color: rgb(70, 66, 66);
+}
+</style>
